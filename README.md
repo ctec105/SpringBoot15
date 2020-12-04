@@ -1,6 +1,8 @@
 # SpringBoot15: Subidas de imagenes
 
-Cómo guardar imágenes en el disco duro y el nombre de esta en la base de datos con Spring. Luego recuperarlas a través de una vista con thymeleaf y bootstrap
+Cómo guardar imágenes en el disco duro y el nombre de esta en la base de datos con Spring. Luego recuperarlas a través de una vista con thymeleaf y bootstrap.
+
+Paginación con Spring, Thymeleaf y bootstrap
 
 - spring.datasource.url = jdbc:mysql://localhost:3306/usuario?serverTimezone=America/Lima
 - spring.datasource.username = root
@@ -13,12 +15,8 @@ Cómo guardar imágenes en el disco duro y el nombre de esta en la base de datos
 - spring.servlet.multipart.max-file-size = 10MB
 - spring.servlet.multipart.max-request-size = 10MB
 
-
 ![](https://raw.githubusercontent.com/ctec105/SpringBoot15/master/image01.png)
 ![](https://raw.githubusercontent.com/ctec105/SpringBoot15/master/image02.png)
-![](https://raw.githubusercontent.com/ctec105/SpringBoot15/master/image03.png)
-
-
 
 # Herramientas:
 - Spring Tool Suite 4
